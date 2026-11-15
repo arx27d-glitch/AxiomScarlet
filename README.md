@@ -1,1 +1,1 @@
-print("Nikal Bsdk")
+Nikal Bsdk
