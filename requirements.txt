@@ -1,25 +1,8 @@
-# -----------------------------------------------
-# 🔸 AxiomMusic Project
-# 🔹 Developed & Maintained by: Axiom Bots (https://t.me/axiombots)
-# 📅 Copyright © 2026 – All Rights Reserved
-#
-# 📖 License:
-# This source code is open for educational and non-commercial use ONLY.
-# You are required to retain this credit in all copies or substantial portions of this file.
-# Commercial use, redistribution, or removal of this notice is strictly prohibited
-# without prior written permission from the author.
-#
-# ❤️ Made with dedication and love by AxiomBots
-# -----------------------------------------------
-
-
 aiofiles
 aiohttp
 apscheduler
-asyncio
 flask
-requests
-bard 
+bard
 beautifulsoup4
 bs4
 dnspython
@@ -31,9 +14,10 @@ gtts
 hachoir
 heroku3
 httpx
+humanize
 instaloader
 lexica-api
-motor 
+motor
 numpy
 opencv-python
 pillow==9.5.0
@@ -49,9 +33,9 @@ python-whois
 pyshorteners
 pyttsx3
 pytz
-pyrofork
+kurigram
 py-tgcalls
-pyrofork
+ntgcalls
 pyyaml
 py-yt-search
 qrcode
@@ -68,34 +52,5 @@ wget
 youtube-search
 youtube-search-python
 yt-dlp
-kurigram 
-aiofiles
-aiohttp
-apscheduler
-beautifulsoup4
-dnspython
-gitpython
-hachoir
-httpx
-humanize
-requests
-python-dotenv
-pyyaml
-unidecode
-tgcrypto
-pyrotgfork
-ffmpeg-python
-py-tgcalls
-ntgcalls
-motor
-psutil
-heroku3
-speedtest-cli
-yt-dlp
-youtube-search
-youtube-search-python
-py-yt-search
-spotipy
 prettytable
 openai
-pykeyboard
